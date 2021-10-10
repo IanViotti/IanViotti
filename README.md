@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IanViotti
-- 👀 I’m interested in structural engineering applied to aerospace
+- 👀 I’m interested in structural engineering and numerical simulations
 - 🌱 I’m currently learning Python for aiding in my studies
 - 📫 You can reach me by my email: ianviotti@hotmail.com
 
