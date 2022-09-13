@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IanViotti
-- 👀 I’m interested in numerical modeling of mechanical systems
+- 👀 I’m interested in numerical modeling of mechanical systems and engineering applied machine learning 
 - 🌱 I’m currently learning Python for solving engineering problems
 - 📫 You can reach me by my email: ianviotti@hotmail.com
 - :thumbsup: Follow my Python videos on YouTube: www.youtube.com/user/IDViotti
