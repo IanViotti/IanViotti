@@ -9,6 +9,10 @@ IanViotti/IanViotti is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## Latest YouTube videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanViotti&theme=radical)](https://github.com/IanViotti/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanViotti&layout=compact)](https://github.com/IanViotti/github-readme-stats)
