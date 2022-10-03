@@ -11,17 +11,18 @@ You can click the Preview link to take a look at your changes.
 
 ----
 
-## ⚡ Github Activity
+<h2 align="center"> ⚡ Github Activity </h2> 
+<p align="center">
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/IanViotti/PyMech/pull/1) in [IanViotti/PyMech](https://github.com/IanViotti/PyMech)
 2. 💪 Opened PR [#1](https://github.com/IanViotti/PyMech/pull/1) in [IanViotti/PyMech](https://github.com/IanViotti/PyMech)
 <!--END_SECTION:activity-->
-</p> -->
+</p>
 
 ---
 
-## 👀 Latest YouTube videos
-
+<h2 align="center"> 👀 Latest YouTube videos </h2> 
+<p align="center">
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c"><img width="140px" src="https://i.ytimg.com/vi/GsCaQSSMG4c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c">Elementos Finitos com PyNastran [Python]</a><br/>Aug 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OVvnL9Zf_t4"><img width="140px" src="https://i.ytimg.com/vi/OVvnL9Zf_t4/mqdefault.jpg"></a></td>
@@ -33,18 +34,25 @@ You can click the Preview link to take a look at your changes.
 <table><tr><td><a href="https://www.youtube.com/watch?v=-tvy-dsPwgo"><img width="140px" src="https://i.ytimg.com/vi/-tvy-dsPwgo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-tvy-dsPwgo">Pêndulo Duplo e Teoria do Caos [Python]</a><br/>Nov 1, 2021</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
-
-## 📈 Stats!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanViotti&theme=radical)](https://github.com/IanViotti/github-readme-stats)
-
-## 🎵 What I'm listening
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12165404946&count=3)
+</p>
 
 ---
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">📈 Stats! </h2>  
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanViotti&theme=radical)](https://github.com/IanViotti/github-readme-stats)
+</p>
+
+---
+
+<h2 align="center">🎵 What I'm listening </h2>  
+<p align="center">
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12165404946&count=3)
+</p> 
+
+---
+
+<h2 align="center">Contact Me !! 🤝</h2> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ianviotti/" target="_blank">
