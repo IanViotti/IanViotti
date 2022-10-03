@@ -11,13 +11,16 @@ You can click the Preview link to take a look at your changes.
 
 ----
 
-## Some Activity
-
-[![Advaith's github activity graph](https://activity-graph.herokuapp.com/graph?username=IanViotti&theme=xcode)](https://github.com/IanViotti)
+## ⚡ Github Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/advaith-unnikrishnan/Project/pull/1) in [advaith-unnikrishnan/Project](https://github.com/advaith-unnikrishnan/Project)
+2. 💪 Opened PR [#543](https://github.com/education/GitHubGraduation-2022/pull/543) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+<!--END_SECTION:activity-->
+</p> -->
 
 ---
 
-## Latest YouTube videos
+## 👀 Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c"><img width="140px" src="https://i.ytimg.com/vi/GsCaQSSMG4c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c">Elementos Finitos com PyNastran [Python]</a><br/>Aug 8, 2022</td></tr></table>
@@ -31,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 <td><a href="https://www.youtube.com/watch?v=-tvy-dsPwgo">Pêndulo Duplo e Teoria do Caos [Python]</a><br/>Nov 1, 2021</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
-## Stats!
+## 📈 Stats!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanViotti&theme=radical)](https://github.com/IanViotti/github-readme-stats)
 
-## What I'm listening
+## 🎵 What I'm listening
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12165404946&count=3)
 
