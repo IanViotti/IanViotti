@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @IanViotti
 - 👀 I’m interested in numerical modeling of mechanical systems and engineering applied machine learning 
-- 🌱 I’m currently learning Machine Learning in Python
+- 🌱 I’m currently learning Machine Learning in Python and some CS theory
 
 
 ----
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h2 align="center"> 👀 Latest YouTube videos </h2>
+<h2 align="center"> 👀 Latest YouTube Videos </h2>
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c"><img width="140px" src="https://i.ytimg.com/vi/GsCaQSSMG4c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c">Elementos Finitos com PyNastran [Python]</a><br/>Aug 8, 2022</td></tr></table>
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h2 align="center">🎵 What I'm listening </h2>  
+<h2 align="center">🎵 What I'm Listening </h2>  
 
 <p align="center">
   
