@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Latest YouTube videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanViotti&theme=radical)](https://github.com/IanViotti/github-readme-stats)
 
