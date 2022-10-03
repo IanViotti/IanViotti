@@ -38,13 +38,21 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">📈 Stats! </h2>  
 
+<p align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanViotti&theme=radical)](https://github.com/IanViotti/github-readme-stats)
+
+</p>
 
 ---
 
 <h2 align="center">🎵 What I'm listening </h2>  
 
+<p align="center">
+  
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12165404946&count=3)
+
+</p>
 
 ---
 
