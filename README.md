@@ -28,10 +28,6 @@ You can click the Preview link to take a look at your changes.
 <td><a href="https://www.youtube.com/watch?v=OVvnL9Zf_t4">Otimização com Enxame de Partículas [Python]</a><br/>Jun 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vD9_88WPVA4"><img width="140px" src="https://i.ytimg.com/vi/vD9_88WPVA4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vD9_88WPVA4">Otimização Estrutural com Pyomo [Python]</a><br/>Feb 16, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uMg87XQa44o"><img width="140px" src="https://i.ytimg.com/vi/uMg87XQa44o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uMg87XQa44o">Escoamento Potencial [Python]</a><br/>Nov 15, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-tvy-dsPwgo"><img width="140px" src="https://i.ytimg.com/vi/-tvy-dsPwgo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-tvy-dsPwgo">Pêndulo Duplo e Teoria do Caos [Python]</a><br/>Nov 1, 2021</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
