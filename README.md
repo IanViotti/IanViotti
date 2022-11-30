@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # Hello, World!
 
 - 👋 Hi, I’m @IanViotti
-- 👀 I’m interested in numerical modeling of mechanical systems and engineering applied machine learning 
+- 👀 I’m interested in numerical modeling of mechanical systems and engineering-applied machine learning 
 - 🌱 I’m currently learning fundamentals of Machine Learning with Python for my Data Science Roadmap and going through CS50 from Harvard to improve my Computer Science theory knwoledge.
 
 
