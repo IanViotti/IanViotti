@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center"> ⚡ Github Activity </h2> 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IanViotti/PyMech/pull/1) in [IanViotti/PyMech](https://github.com/IanViotti/PyMech)
-2. 💪 Opened PR [#1](https://github.com/IanViotti/PyMech/pull/1) in [IanViotti/PyMech](https://github.com/IanViotti/PyMech)
+1. 🗣 Commented on [#773](https://github.com/python-control/python-control/issues/773) in [python-control/python-control](https://github.com/python-control/python-control)
+2. ❌ Closed PR [#773](https://github.com/python-control/python-control/pull/773) in [python-control/python-control](https://github.com/python-control/python-control)
 <!--END_SECTION:activity-->
 
 ---
