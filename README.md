@@ -22,12 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> 👀 Latest YouTube Videos </h2>
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c"><img width="140px" src="https://i.ytimg.com/vi/GsCaQSSMG4c/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oZdaeiIv8Gc"><img width="140px" src="https://i.ytimg.com/vi/oZdaeiIv8Gc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oZdaeiIv8Gc">Dead Cells_20230925135205</a><br/>Sep 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c"><img width="140px" src="https://i.ytimg.com/vi/GsCaQSSMG4c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GsCaQSSMG4c">Elementos Finitos com PyNastran [Python]</a><br/>Aug 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OVvnL9Zf_t4"><img width="140px" src="https://i.ytimg.com/vi/OVvnL9Zf_t4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OVvnL9Zf_t4">Otimização com Enxame de Partículas [Python]</a><br/>Jun 4, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vD9_88WPVA4"><img width="140px" src="https://i.ytimg.com/vi/vD9_88WPVA4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vD9_88WPVA4">Otimização Estrutural com Pyomo [Python]</a><br/>Feb 16, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
